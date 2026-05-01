@@ -1,0 +1,21 @@
+
+path: /mnt/f/CocDatasets/Perception1/yolo_dataset_1
+train: images/train
+val: images/val
+
+names:
+  0: canon
+  1: archer_tower
+  2: mortar
+  3: air_defense
+  4: wizard_tower
+  5: air_sweeper
+  6: bomb_tower
+  7: x_bow
+  8: inferno_tower
+  9: eagle_artillery
+  10: town_hall
+  11: gold_storage
+  12: elixer_storage
+  13: dark_elixer_storage
+  14: clan_castle
